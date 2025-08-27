@@ -1,12 +1,38 @@
 # SuperstoreDashboard
-This project analyzes over 149,000 coffee shop transactions to uncover insights into sales performance, customer purchase behavior, and store trends. The data was processed, cleaned, and visualized using Excel (Pivot Tables & Dashboards).
+This project focuses on analyzing Superstore Sales data using Tableau. The goal was to build a fully interactive dashboard that tracks key business KPIs and provides actionable insights for decision-making.
 
 🔧 Tools & Skills Used
 
-Excel (Pivot Tables, Charts, Slicers, Dashboards)
+Tableau
 
-Data Cleaning & Transformation
+Data Visualization & Dashboard Design
 
-KPI Design (Sales, Profit, Transactions)
+KPI Creation (Sales, Profit, Orders, Quantity)
 
-Time-based Analysis (Month, Day, Hour trends)
+Interactive Filters, Parameters, and Actions
+
+📊 Key Steps
+
+Data Preparation
+
+Connected to Superstore dataset.
+
+Cleaned data fields and ensured correct data types.
+
+Dashboard Development
+
+Created KPI cards (Sales, Profit, Orders, Quantity).
+
+Designed trend charts (Sales & Profit over time).
+
+Built category & region analysis views.
+
+Used maps for regional performance.
+
+Interactivity
+
+Applied filters (Region, Category, Sub-Category).
+
+Added dashboard actions for drill-down analysis.
+
+Customized formatting (e.g., currency symbols for KPIs)
